@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 55daccc09a3b69647bbab145b54a3ab3
+  - enabled: 1
+    path: Assets/VRBeatsKit/Scenes/Menu.unity
+    guid: 8955cd175b370b448809e43ad833ea74
+  - enabled: 1
+    path: Assets/VRBeatsKit/Scenes/SaberStyle.unity
+    guid: bb4ee84e66cce254e9cbf1fdfc136c08
+  - enabled: 1
+    path: Assets/VRBeatsKit/Scenes/BoxingStyle.unity
+    guid: 63d51c8fe9633e54bb03cc51d243a0cd
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 531311db258e1cf49a7fe8d493ce7b47, type: 2}
