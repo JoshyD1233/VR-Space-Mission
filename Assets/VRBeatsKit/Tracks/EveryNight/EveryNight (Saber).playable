@@ -13,8 +13,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 117.30000000000001
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -36,8 +35,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 19
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -59,8 +57,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 149.56666666666655
-  spawneable: {fileID: -4003994156106257180, guid: 95c798c31321b434b97df390ef7e6f48,
-    type: 3}
+  spawneable: {fileID: -4003994156106257180, guid: 95c798c31321b434b97df390ef7e6f48, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -82,8 +79,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 135.89999999999986
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 0
     colorSide: 0
@@ -105,8 +101,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 22.4
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -128,8 +123,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 102.53333333333333
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -151,8 +145,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 71.30000000000001
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -197,8 +190,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 148.84999999999985
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -220,8 +212,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 153.96666666666664
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -243,8 +234,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 20.883333333333333
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -266,8 +256,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 100.66666666666657
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -289,8 +278,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 15.45
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -312,8 +300,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 148.84999999999985
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -335,8 +322,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 138.39999999999986
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -358,8 +344,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 9.45
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 0
     colorSide: 0
@@ -381,8 +366,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 152.09999999999985
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -404,8 +388,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 76.06666666666666
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -427,8 +410,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 100.06666666666658
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -450,8 +432,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 46.9999999999999
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -473,8 +454,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 80.63333333333335
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 2
     colorSide: 1
@@ -496,8 +476,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 40.0499999999999
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -519,8 +498,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 152.96666666666664
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -542,8 +520,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 38.21666666666657
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -565,8 +542,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 102.53333333333333
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -588,8 +564,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 47.71666666666657
-  spawneable: {fileID: -4003994156106257180, guid: 95c798c31321b434b97df390ef7e6f48,
-    type: 3}
+  spawneable: {fileID: -4003994156106257180, guid: 95c798c31321b434b97df390ef7e6f48, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -611,8 +586,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 153.96666666666664
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -634,8 +608,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 40.0499999999999
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -657,8 +630,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 28.2
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -680,8 +652,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 71.30000000000001
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -703,8 +674,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 36.5499999999999
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -726,8 +696,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 43.599999999999895
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -749,8 +718,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 113.8
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -759,23 +727,6 @@ MonoBehaviour:
     rotation: {x: 0, y: 0, z: 0}
     speed: 6
     speedMultiplier: -1
---- !u!114 &-6131299024979711112
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
-  m_Name: AudioPlayableAsset
-  m_EditorClassIdentifier: 
-  m_Clip: {fileID: 8300000, guid: 3eee53caae037634ab85bf050619dc2b, type: 3}
-  m_Loop: 0
-  m_bufferingTime: 0.1
-  m_ClipProperties:
-    volume: 1
 --- !u!114 &-6111489909996878804
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -789,8 +740,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 43.599999999999895
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -812,8 +762,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 67.91666666666669
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 1
@@ -835,8 +784,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 138.39999999999986
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 0
@@ -858,8 +806,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 133.89999999999998
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -881,8 +828,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 52.11666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -904,8 +850,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 51.11666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -927,8 +872,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 95.89999999999992
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -950,8 +894,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 65.86666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -973,8 +916,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 153.96666666666664
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -996,8 +938,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 64.03333333333333
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -1019,8 +960,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 62.36666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 0
@@ -1042,8 +982,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 143.94999999999987
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 0
@@ -1065,8 +1004,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 49.64999999999989
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 0
@@ -1088,8 +1026,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 15.45
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -1111,8 +1048,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 25.65
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -1134,8 +1070,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 101.53333333333333
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -1157,8 +1092,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 72.81666666666666
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -1180,8 +1114,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 13.616666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 1
@@ -1203,8 +1136,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 122.73333333333335
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -1226,8 +1158,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 92.51666666666657
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 1
@@ -1249,8 +1180,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 75.46666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -1272,8 +1202,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 86.96666666666658
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -1282,6 +1211,50 @@ MonoBehaviour:
     rotation: {x: 0, y: 0, z: 0}
     speed: 6
     speedMultiplier: -1
+--- !u!114 &-3471741956341146256
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b22792c3b570444eb18cb78c2af3a74, type: 3}
+  m_Name: Audio Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips: []
+  m_Markers:
+    m_Objects: []
+  m_TrackProperties:
+    volume: 1
+    stereoPan: 0
+    spatialBlend: 0
+--- !u!114 &-3456107152453752307
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+  m_Name: AudioPlayableAsset
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 91c48da383ad5374aabcb08014b4f59d, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+  m_ClipProperties:
+    volume: 1
 --- !u!114 &-3453928619305657512
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1295,8 +1268,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 69.41666666666669
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -1318,8 +1290,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 75.46666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 0
@@ -1341,8 +1312,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 40.0499999999999
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -1364,8 +1334,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 69.41666666666669
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -1387,8 +1356,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 45.483333333333235
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -1410,8 +1378,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 124.25
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -1433,8 +1400,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 141.89999999999986
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -1456,8 +1422,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 100.06666666666658
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 0
@@ -1479,8 +1444,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 38.21666666666657
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 1
@@ -1502,8 +1466,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 3.6
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -1525,8 +1488,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 132.06666666666666
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 2
     colorSide: 1
@@ -1548,8 +1510,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 111.3
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 0
     colorSide: 0
@@ -1571,8 +1532,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 152.96666666666664
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -1594,8 +1554,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 94.01666666666657
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -1617,8 +1576,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 64.03333333333333
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 1
@@ -1640,8 +1598,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 120.85000000000002
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -1663,8 +1620,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 78.61666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -1686,8 +1642,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 17.5
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 0
@@ -1709,8 +1664,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 62.36666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -1732,8 +1686,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 30.216666666666665
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 2
     colorSide: 1
@@ -1755,8 +1708,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 56.03333333333333
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 2
     colorSide: 1
@@ -1778,8 +1730,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 94.01666666666657
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -1801,8 +1752,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 95.89999999999992
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -1824,8 +1774,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 76.06666666666666
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -1847,8 +1796,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 40.0499999999999
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -1870,8 +1818,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 126.9
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 0
@@ -1893,8 +1840,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 52.11666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -1916,8 +1862,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 92.51666666666657
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 0
@@ -1939,8 +1884,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 145.44999999999987
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -1962,8 +1906,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 141.89999999999986
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -1985,8 +1928,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 120.85000000000002
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -1995,6 +1937,102 @@ MonoBehaviour:
     rotation: {x: 0, y: 0, z: 0}
     speed: 5
     speedMultiplier: -1
+--- !u!114 &-646296930060834321
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b22792c3b570444eb18cb78c2af3a74, type: 3}
+  m_Name: Audio Track (1)
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: -3456107152453752307}
+    m_Duration: 66.63120833333333
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -646296930060834321}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Sabre Music
+  m_Markers:
+    m_Objects: []
+  m_TrackProperties:
+    volume: 1
+    stereoPan: 0
+    spatialBlend: 0
 --- !u!114 &-555636805370500217
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2008,8 +2046,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 65.86666666666667
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -2270,8 +2307,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 20.883333333333333
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -2293,8 +2329,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 95.89999999999992
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -2318,10 +2353,12 @@ MonoBehaviour:
   m_Version: 0
   m_Tracks:
   - {fileID: -498116564073401085}
-  - {fileID: 5371815694391582293}
+  - {fileID: -646296930060834321}
+  - {fileID: -3471741956341146256}
   m_FixedDuration: 0
   m_EditorSettings:
     m_Framerate: 60
+    m_ScenePreview: 1
   m_DurationMode: 0
   m_MarkerTrack: {fileID: -8564420106501566238}
 --- !u!114 &4555911064090177
@@ -2337,8 +2374,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 90.46666666666658
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -2360,8 +2396,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 152.96666666666664
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -2383,8 +2418,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 23.116666666666667
-  spawneable: {fileID: -4003994156106257180, guid: 95c798c31321b434b97df390ef7e6f48,
-    type: 3}
+  spawneable: {fileID: -4003994156106257180, guid: 95c798c31321b434b97df390ef7e6f48, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -2406,8 +2440,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 152.09999999999985
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -2429,8 +2462,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 19
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -2452,8 +2484,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 147.3333333333332
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -2475,8 +2506,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 25.05
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 0
@@ -2498,8 +2528,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 52.11666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -2521,8 +2550,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 13.616666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -2544,8 +2572,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 11.95
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -2567,8 +2594,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 98.13333333333324
-  spawneable: {fileID: -4003994156106257180, guid: 95c798c31321b434b97df390ef7e6f48,
-    type: 3}
+  spawneable: {fileID: -4003994156106257180, guid: 95c798c31321b434b97df390ef7e6f48, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -2590,8 +2616,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 117.30000000000001
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -2613,8 +2638,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 71.30000000000001
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -2636,8 +2660,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 82.46666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -2659,8 +2682,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 88.63333333333324
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -2682,8 +2704,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 120.85000000000002
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -2705,8 +2726,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 140.06666666666655
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 1
@@ -2728,8 +2748,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 20.883333333333333
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -2751,8 +2770,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 50.2499999999999
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -2774,8 +2792,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 36.5499999999999
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 0
@@ -2797,8 +2814,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 124.25
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -2820,8 +2836,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 119.35000000000002
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 0
@@ -2843,8 +2858,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 113.8
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 0
@@ -2866,8 +2880,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 105.45
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -2889,8 +2902,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 90.46666666666658
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -2912,8 +2924,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 73.53333333333333
-  spawneable: {fileID: -4003994156106257180, guid: 95c798c31321b434b97df390ef7e6f48,
-    type: 3}
+  spawneable: {fileID: -4003994156106257180, guid: 95c798c31321b434b97df390ef7e6f48, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -2935,8 +2946,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 65.86666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -2958,8 +2968,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 17.5
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 1
@@ -2981,8 +2990,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 107.46666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 2
     colorSide: 1
@@ -3004,8 +3012,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 94.01666666666657
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -3027,8 +3034,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 115.46666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -3050,8 +3056,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 97.41666666666657
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -3073,8 +3078,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 148.84999999999985
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -3096,8 +3100,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 52.11666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -3119,8 +3122,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 43.599999999999895
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -3142,8 +3144,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 45.483333333333235
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -3165,8 +3166,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 141.89999999999986
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -3188,8 +3188,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 102.53333333333333
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -3211,8 +3210,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 140.06666666666655
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -3234,8 +3232,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 86.96666666666658
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 0
@@ -3257,8 +3254,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 5.616666666666666
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 2
     colorSide: 1
@@ -3280,8 +3276,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 69.41666666666669
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -3303,8 +3298,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 130.04999999999995
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -3326,8 +3320,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 57.86666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -3349,8 +3342,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 19
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -3372,8 +3364,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 51.11666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -3395,8 +3386,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 67.91666666666669
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 0
@@ -3418,8 +3408,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 152.96666666666664
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -3441,8 +3430,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 127.5
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -3464,8 +3452,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 65.86666666666667
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -3487,8 +3474,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 46.9999999999999
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -3510,8 +3496,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 153.96666666666664
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -3533,8 +3518,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 88.63333333333324
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 1
@@ -3556,8 +3540,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 15.45
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -3579,8 +3562,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 34.0499999999999
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 0
     colorSide: 0
@@ -3602,8 +3584,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 11.95
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 0
@@ -3612,102 +3593,6 @@ MonoBehaviour:
     rotation: {x: 0, y: 0, z: 0}
     speed: 6
     speedMultiplier: -1
---- !u!114 &5371815694391582293
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b22792c3b570444eb18cb78c2af3a74, type: 3}
-  m_Name: Audio Track
-  m_EditorClassIdentifier: 
-  m_Version: 3
-  m_AnimClip: {fileID: 0}
-  m_Locked: 0
-  m_Muted: 0
-  m_CustomPlayableFullTypename: 
-  m_Curves: {fileID: 0}
-  m_Parent: {fileID: 11400000}
-  m_Children: []
-  m_Clips:
-  - m_Version: 1
-    m_Start: 0
-    m_ClipIn: 0
-    m_Asset: {fileID: -6131299024979711112}
-    m_Duration: 174.3412244897959
-    m_TimeScale: 1
-    m_ParentTrack: {fileID: 5371815694391582293}
-    m_EaseInDuration: 0
-    m_EaseOutDuration: 0
-    m_BlendInDuration: -1
-    m_BlendOutDuration: -1
-    m_MixInCurve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    m_MixOutCurve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    m_BlendInCurveMode: 0
-    m_BlendOutCurveMode: 0
-    m_ExposedParameterNames: []
-    m_AnimationCurves: {fileID: 0}
-    m_Recordable: 0
-    m_PostExtrapolationMode: 0
-    m_PreExtrapolationMode: 0
-    m_PostExtrapolationTime: 0
-    m_PreExtrapolationTime: 0
-    m_DisplayName: EveryNight
-  m_Markers:
-    m_Objects: []
-  m_TrackProperties:
-    volume: 1
-    stereoPan: 0
-    spatialBlend: 0
 --- !u!114 &5388564217641758090
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3721,8 +3606,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 97.41666666666657
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -3744,8 +3628,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 42.099999999999895
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 1
@@ -3767,8 +3650,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 90.46666666666658
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -3790,8 +3672,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 25.05
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -3813,8 +3694,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 147.3333333333332
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -3836,8 +3716,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 54.016666666666666
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -3859,8 +3738,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 97.41666666666657
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -3882,8 +3760,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 72.81666666666666
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -3905,8 +3782,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 42.099999999999895
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 0
@@ -3928,8 +3804,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 84.46666666666658
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 0
     colorSide: 0
@@ -3951,8 +3826,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 124.25
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -3974,8 +3848,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 97.41666666666657
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -3997,8 +3870,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 145.44999999999987
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -4020,8 +3892,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 22.4
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -4043,8 +3914,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 49.64999999999989
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -4066,8 +3936,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 46.9999999999999
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -4089,8 +3958,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 32.05
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -4112,8 +3980,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 109.3
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -4135,8 +4002,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 46.9999999999999
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -4158,8 +4024,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 126.9
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -4181,8 +4046,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 124.96666666666667
-  spawneable: {fileID: -4003994156106257180, guid: 95c798c31321b434b97df390ef7e6f48,
-    type: 3}
+  spawneable: {fileID: -4003994156106257180, guid: 95c798c31321b434b97df390ef7e6f48, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -4204,8 +4068,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 101.53333333333333
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -4227,8 +4090,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 51.11666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -4250,8 +4112,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 117.30000000000001
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -4273,8 +4134,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 90.46666666666658
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -4296,8 +4156,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 151.4999999999999
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -4319,8 +4178,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 45.483333333333235
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -4342,8 +4200,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 119.35000000000002
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 1
@@ -4365,8 +4222,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 102.53333333333333
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -4388,8 +4244,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 22.4
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -4411,8 +4266,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 115.46666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 1
@@ -4434,8 +4288,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 101.53333333333333
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -4457,8 +4310,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 22.4
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -4480,8 +4332,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 148.84999999999985
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -4503,8 +4354,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 122.73333333333335
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 1
@@ -4526,8 +4376,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 151.4999999999999
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 1
     colorSide: 0
@@ -4549,8 +4398,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 124.25
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -4572,8 +4420,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 51.11666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -4595,8 +4442,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 50.2499999999999
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -4618,8 +4464,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 117.30000000000001
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -4641,8 +4486,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 122.73333333333335
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -4664,8 +4508,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 101.53333333333333
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -4687,8 +4530,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 145.44999999999987
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 5
     colorSide: 1
@@ -4710,8 +4552,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 7.45
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -4733,8 +4574,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 143.94999999999987
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 1
@@ -4756,8 +4596,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 147.3333333333332
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 3
     colorSide: 0
@@ -4779,8 +4618,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 100.66666666666657
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
@@ -4802,8 +4640,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 25.65
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -4825,8 +4662,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 72.81666666666666
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 8
     colorSide: 1
@@ -4848,8 +4684,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 72.81666666666666
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 6
     colorSide: 0
@@ -4871,8 +4706,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 59.86666666666667
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 0
     colorSide: 0
@@ -4894,8 +4728,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 127.5
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -4917,8 +4750,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 141.89999999999986
-  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c,
-    type: 3}
+  spawneable: {fileID: -8967289558340754843, guid: bb7b882687a40164bb90e774b8e93c2c, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 0
@@ -4940,8 +4772,7 @@ MonoBehaviour:
   m_Name: VR_Beat Spawn Marker
   m_EditorClassIdentifier: 
   m_Time: 15.45
-  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6,
-    type: 3}
+  spawneable: {fileID: 7534675205999449639, guid: 336be1081630a20448abc0dc1bc320a6, type: 3}
   spawInfo:
     hitDirection: 7
     colorSide: 1
